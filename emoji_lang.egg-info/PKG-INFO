@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: emoji-lang
+Version: 0.1
+Summary: A funny emoji-based programming language.
+Author: Pranav Kulkarni
+Author-email: your_email@example.com
+Requires-Python: >=3.6

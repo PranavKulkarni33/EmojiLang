@@ -1,0 +1,11 @@
+setup.py
+emoji_lang/__init__.py
+emoji_lang/cli.py
+emoji_lang/interpreter.py
+emoji_lang/lexer.py
+emoji_lang/parser_ast.py
+emoji_lang.egg-info/PKG-INFO
+emoji_lang.egg-info/SOURCES.txt
+emoji_lang.egg-info/dependency_links.txt
+emoji_lang.egg-info/entry_points.txt
+emoji_lang.egg-info/top_level.txt
